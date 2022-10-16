@@ -1,12 +1,17 @@
 {
   "name": "async-cli-reader",
   "description": "A simple class to read command-line input.",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "main": "lib/src/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
+  "keywords": [
+    "command line",
+    "cli",
+    "scanner",
+    "input"
+  ],
   "author": "Kedar Panchal",
   "license": "ISC",
   "dependencies": {
